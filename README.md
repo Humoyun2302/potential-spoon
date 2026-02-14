@@ -1,11 +1,20 @@
+# Barber Booking Platform
 
-  # Barber Booking Platform Homepage
+A modern booking platform for barber shops.
 
-  This is a code bundle for Barber Booking Platform Homepage. The original project is available at https://www.figma.com/design/SYgjSf2QbovT8Y70nidGdi/Barber-Booking-Platform-Homepage.
+## Features
+- **Booking Management**: Schedule and manage appointments.
+- **User Profiles**: Manage customer and barber profiles.
+- **Real-time Updates**: Live availability checking.
 
-  ## Running the code
+## Tech Stack
+- React
+- Vite
+- Supabase
+- Tailwind CSS
 
-  Run `npm i` to install the dependencies.
+## Getting Started
 
-  Run `npm run dev` to start the development server.
-  
+1. Clone the repository.
+2. Install dependencies: `npm install`
+3. Start development server: `npm run dev`
