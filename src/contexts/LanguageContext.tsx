@@ -312,7 +312,7 @@ const translations: Record<Language, any> = {
       sendCode: "Kod yuborish",
       enterCodeSentToPhone: "Telefon raqamingizga yuborilgan kodni kiriting",
       newPassword: "Yangi parol",
-      confirmPassword: "Parolni tasdiqlash",
+
       smsSentWithCode: "Telefoningizga tasdiqlash kodi yuborildi.",
       passwordUpdatedSuccessfully: "Parol muvaffaqiyatli yangilandi.",
       passwordMinLength: "Parol kamida 6 ta belgidan iborat bo'lishi kerak",
@@ -320,7 +320,7 @@ const translations: Record<Language, any> = {
       verifyAndReset: "Tasdiqlash va yangilash",
       enterNewPassword: "Yangi parolni kiriting",
       failedToSendCode: "Tasdiqlash kodi yuborishda xatolik",
-      confirmPasswordPlaceholder: "Parolni qayta kiriting",
+
       loginToBook: "Bronni tugallash uchun tizimga kiring",
       acceptTermsPrefix: "Men",
       acceptTermsLink: "Foydalanish shartlari",
@@ -723,8 +723,7 @@ const translations: Record<Language, any> = {
         "Oldingi tanlovlaringiz bilan buyurtma sahifasi ochilmoqda...",
       maxImagesError:
         "Maksimal {{max}} ta rasm. Yangisini qo'shish uchun birini o'chiring.",
-      invalidFileFormat:
-        "{{name}} yaroqsiz format. JPG yoki PNG ishlatilsin.",
+
       photoRemoved: "Rasm o'chirildi",
       loggedOut: "Tizimdan chiqdingiz",
       timeSlotAdded: "Yangi vaqt oralig'i qo'shildi",
@@ -850,7 +849,7 @@ const translations: Record<Language, any> = {
       expired: "Muddati tugagan",
       none: "Yo'q",
       promoPeriod: "Aksiya davri",
-      currentPlan: "Joriy reja",
+
       expiredWarning: "Obuna muddati tugagan",
       renewNowMessage: "Yana ko'rinish uchun obunani yangilang.",
       renewNow: "Obunani hozir yangilash",
@@ -1273,7 +1272,7 @@ const translations: Record<Language, any> = {
       sendCode: "Отправить код",
       enterCodeSentToPhone: "Введите код, отправленный на ваш телефон",
       newPassword: "Новый пароль",
-      confirmPassword: "Подтвердите пароль",
+
       smsSentWithCode: "Мы отправили SMS с кодом подтверждения.",
       passwordUpdatedSuccessfully: "Пароль успешно изменён.",
       passwordMinLength: "Пароль должен содержать минимум 6 символов",
@@ -1281,7 +1280,7 @@ const translations: Record<Language, any> = {
       verifyAndReset: "Проверить и изменить",
       enterNewPassword: "Введите новый пароль",
       failedToSendCode: "Не удалось отправить код подтверждения",
-      confirmPasswordPlaceholder: "Введите пароль повторно",
+
       loginToBook: "Пожалуйста, войдите, чтобы завершить бронирование",
       acceptTermsPrefix: "Я согласен(на) с",
       acceptTermsLink: "Условиями использования",
@@ -1681,8 +1680,7 @@ const translations: Record<Language, any> = {
         "Открытие страницы записи с вашими предыдущими выборами...",
       maxImagesError:
         "Максимум {{max}} изображений. Удалите одно, чтобы добавить другое.",
-      invalidFileFormat:
-        "{{name}} недопустимый формат. Используйте JPG или PNG.",
+
       photoRemoved: "Фото удалено",
       loggedOut: "Вы вышли из системы",
       timeSlotAdded: "Добавлен новый временной интервал",
@@ -1802,7 +1800,7 @@ const translations: Record<Language, any> = {
       expired: "Истекла",
       none: "Нет",
       promoPeriod: "Промо период",
-      currentPlan: "Текущий план",
+
       expiredWarning: "Срок подписки истёк",
       renewNowMessage: "Чтобы снова быть видимым, продлите подписку.",
       renewNow: "Продлить подписку",
@@ -2230,7 +2228,7 @@ const translations: Record<Language, any> = {
       sendCode: "Send code",
       enterCodeSentToPhone: "Enter the code sent to your phone",
       newPassword: "New password",
-      confirmPassword: "Confirm password",
+
       smsSentWithCode: "We've sent an SMS with a verification code.",
       passwordUpdatedSuccessfully: "Password updated successfully.",
       passwordMinLength: "Password must be at least 6 characters",
@@ -2238,7 +2236,7 @@ const translations: Record<Language, any> = {
       verifyAndReset: "Verify and reset",
       enterNewPassword: "Enter new password",
       failedToSendCode: "Failed to send verification code",
-      confirmPasswordPlaceholder: "Re-enter password",
+
       loginToBook: "Please login to complete your booking",
       acceptTermsPrefix: "I agree to the",
       acceptTermsLink: "Terms & Conditions",
@@ -2636,8 +2634,7 @@ const translations: Record<Language, any> = {
         "Opening booking page with your previous selections...",
       maxImagesError:
         "Maximum {{max}} images. Remove one to add another.",
-      invalidFileFormat:
-        "{{name}} is not a valid format. Use JPG or PNG.",
+
       photoRemoved: "Photo removed",
       loggedOut: "You have been logged out",
       timeSlotAdded: "New time slot added",
